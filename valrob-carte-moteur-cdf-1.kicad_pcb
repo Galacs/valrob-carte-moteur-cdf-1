@@ -1746,15 +1746,15 @@
 			(uuid "da7f7728-4788-4481-b0df-395bffca8c8e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53048-0810_1x08_P1.25mm_Horizontal.step"
+		(model "/home/galacs/Nextcloud/02. PCB/Pers.pretty/3D/0530480810.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 4.4 -5.45 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -2631,7 +2631,7 @@
 			(uuid "c3247260-62d5-4d71-9601-38a0ebb1fc19")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm.step"
+		(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3141,15 +3141,15 @@
 			(uuid "7103e545-5a5c-45be-9a87-c09cf11e2aaa")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53048-0810_1x08_P1.25mm_Horizontal.step"
+		(model "/home/galacs/Nextcloud/02. PCB/Pers.pretty/3D/0530480810.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 4.4 -5.45 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -14202,7 +14202,7 @@
 			(uuid "537c921d-9de4-42e4-a151-2da59cc3299d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm.step"
+		(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16062,7 +16062,7 @@
 			(uuid "c0fa2a8d-5d3f-4fef-9326-e17bfcd9f507")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.step"
+		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
