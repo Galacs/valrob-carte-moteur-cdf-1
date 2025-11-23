@@ -2272,7 +2272,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "09cd660c-42b5-433b-8cc5-303b1eb61608")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR040"
 			(at 177.8 90.17 0)
 			(effects
 				(font
@@ -2322,11 +2322,11 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "#PWR032")
+					(reference "#PWR040")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
-					(reference "#PWR041")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -2341,7 +2341,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0b2d6b00-e603-48c8-815f-b5433e73f6e3")
-		(property "Reference" "R6"
+		(property "Reference" "R12"
 			(at 125.222 107.95 0)
 			(effects
 				(font
@@ -2395,7 +2395,7 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "R6")
+					(reference "R12")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
@@ -2492,7 +2492,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2189e026-ee26-4f54-8172-9b2ecebcdb85")
-		(property "Reference" "U2"
+		(property "Reference" "U4"
 			(at 153.2733 78.74 0)
 			(effects
 				(font
@@ -2588,11 +2588,11 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "U2")
+					(reference "U4")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
-					(reference "U4")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -2607,7 +2607,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "269d3cb2-9349-443a-b173-8df16363b474")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR038"
 			(at 152.4 121.92 0)
 			(effects
 				(font
@@ -2657,11 +2657,11 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "#PWR028")
+					(reference "#PWR038")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
-					(reference "#PWR039")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -2678,7 +2678,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d5cfb1a-7364-4f9e-92b1-1950427a484a")
-		(property "Reference" "R7"
+		(property "Reference" "R13"
 			(at 124.46 86.3599 0)
 			(effects
 				(font
@@ -2768,7 +2768,7 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "R7")
+					(reference "R13")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
@@ -2787,7 +2787,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "403e4b27-1fc6-4b7b-affe-e9693216b48a")
-		(property "Reference" "R8"
+		(property "Reference" "R14"
 			(at 146.05 116.586 90)
 			(effects
 				(font
@@ -2839,7 +2839,7 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "R8")
+					(reference "R14")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
@@ -2859,7 +2859,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "47ca1c9e-0f46-403e-9529-b28688bdc816")
-		(property "Reference" "R4"
+		(property "Reference" "R10"
 			(at 115.57 92.7099 0)
 			(effects
 				(font
@@ -2913,11 +2913,11 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "R4")
+					(reference "R10")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
-					(reference "R11")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -2932,7 +2932,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5375d5fa-1545-4603-b0a8-3f88a59b1bf3")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR041"
 			(at 177.8 107.95 0)
 			(effects
 				(font
@@ -2982,11 +2982,11 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "#PWR033")
+					(reference "#PWR041")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
-					(reference "#PWR042")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -3001,7 +3001,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5650d4cf-cea6-4b79-a95b-844df4bd4653")
-		(property "Reference" "TP4"
+		(property "Reference" "TP5"
 			(at 132.842 109.474 0)
 			(effects
 				(font
@@ -3053,11 +3053,11 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "TP4")
+					(reference "TP5")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
-					(reference "TP5")
+					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -3072,7 +3072,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "73f94f78-12e7-4675-95da-4d995bc711bd")
-		(property "Reference" "C6"
+		(property "Reference" "C8"
 			(at 166.116 95.25 90)
 			(effects
 				(font
@@ -3124,11 +3124,11 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "C6")
+					(reference "C8")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
-					(reference "C10")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -3143,7 +3143,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7ba0da37-10c3-409b-bfbe-1d8a4e340428")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR036"
 			(at 123.19 121.92 0)
 			(effects
 				(font
@@ -3193,11 +3193,11 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "#PWR026")
+					(reference "#PWR036")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
-					(reference "#PWR037")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -3212,7 +3212,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7fccb47b-e637-40f9-9454-6ffaeb691b38")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR037"
 			(at 127 86.36 0)
 			(effects
 				(font
@@ -3262,11 +3262,11 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "#PWR027")
+					(reference "#PWR037")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
-					(reference "#PWR038")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -3282,7 +3282,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "855cd110-fa9d-4fe1-91aa-00c091df41fa")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR042"
 			(at 182.88 109.22 0)
 			(effects
 				(font
@@ -3332,11 +3332,11 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "#PWR034")
+					(reference "#PWR042")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
-					(reference "#PWR043")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -3352,7 +3352,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8cf88ab8-4060-4d65-9c26-83477f69899f")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR039"
 			(at 176.53 124.46 0)
 			(effects
 				(font
@@ -3402,11 +3402,11 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "#PWR031")
+					(reference "#PWR039")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
-					(reference "#PWR040")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -3422,7 +3422,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "905b8a70-eaea-446d-8fd0-cdc033fabeb9")
-		(property "Reference" "C9"
+		(property "Reference" "C11"
 			(at 183.896 109.982 0)
 			(effects
 				(font
@@ -3476,11 +3476,11 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "C9")
+					(reference "C11")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
-					(reference "C13")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -3495,7 +3495,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a5721ad1-e567-45a6-b87a-2c3da0f12008")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR034"
 			(at 118.11 92.71 0)
 			(effects
 				(font
@@ -3545,11 +3545,11 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "#PWR024")
+					(reference "#PWR034")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
-					(reference "#PWR035")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -3565,7 +3565,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "adc3ffde-d1fc-46cc-b5b0-29dd7e5908a5")
-		(property "Reference" "C7"
+		(property "Reference" "C9"
 			(at 166.116 105.41 90)
 			(effects
 				(font
@@ -3617,11 +3617,11 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "C7")
+					(reference "C9")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
-					(reference "C11")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -3637,7 +3637,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cf0b1f71-7cec-4fd6-907a-345d34e94269")
-		(property "Reference" "C8"
+		(property "Reference" "C10"
 			(at 169.672 110.49 0)
 			(effects
 				(font
@@ -3691,11 +3691,11 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "C8")
+					(reference "C10")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
-					(reference "C12")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -3789,7 +3789,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d9f094cd-409d-4179-8eee-4fd408fd108f")
-		(property "Reference" "R5"
+		(property "Reference" "R11"
 			(at 115.57 102.8699 0)
 			(effects
 				(font
@@ -3843,7 +3843,7 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "R5")
+					(reference "R11")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
@@ -3863,7 +3863,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da363b30-2769-42a7-ac40-9c2eaa2e237e")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR035"
 			(at 118.11 115.57 0)
 			(effects
 				(font
@@ -3913,11 +3913,11 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
-					(reference "#PWR025")
+					(reference "#PWR035")
 					(unit 1)
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
-					(reference "#PWR036")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
