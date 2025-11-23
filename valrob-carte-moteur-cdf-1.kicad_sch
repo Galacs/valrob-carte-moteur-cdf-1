@@ -5150,6 +5150,10 @@
 		(uuid "164f3032-e5e1-4322-959d-5f42b12447c2")
 	)
 	(no_connect
+		(at 234.95 71.12)
+		(uuid "1887b5c1-52ec-4751-8378-931b21148947")
+	)
+	(no_connect
 		(at 143.51 63.5)
 		(uuid "236a8ba6-d158-4225-ad3b-8f5265bc32ea")
 	)
@@ -5168,10 +5172,6 @@
 	(no_connect
 		(at 234.95 78.74)
 		(uuid "491339c9-7852-4080-93ed-be1fb632ad48")
-	)
-	(no_connect
-		(at 234.95 91.44)
-		(uuid "5a1a7234-a89a-4dd6-93dc-83a80e779812")
 	)
 	(no_connect
 		(at 143.51 60.96)
@@ -5903,6 +5903,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 91.44) (xy 242.57 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54ca6715-e08f-42fb-a729-a0b4d245c232")
+	)
+	(wire
+		(pts
 			(xy 33.02 177.8) (xy 34.29 177.8)
 		)
 		(stroke
@@ -6060,16 +6070,6 @@
 			(type default)
 		)
 		(uuid "71c7a73d-610b-4627-9870-3f1ee9679ac0")
-	)
-	(wire
-		(pts
-			(xy 234.95 71.12) (xy 242.57 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72ee6038-d96b-46c9-9b4c-c0dff1544d79")
 	)
 	(wire
 		(pts
@@ -7511,16 +7511,6 @@
 		)
 		(uuid "cde162cd-4334-4e0a-bc15-d3e25396e827")
 	)
-	(label "Vsense"
-		(at 242.57 71.12 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "df161847-c7a9-4cc9-8312-496fcba313cf")
-	)
 	(label "D-"
 		(at 72.39 144.78 180)
 		(effects
@@ -7540,6 +7530,16 @@
 			(justify right bottom)
 		)
 		(uuid "e643b7eb-435c-4dd6-887a-c385a4358528")
+	)
+	(label "Vsense"
+		(at 242.57 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e64a0a68-cfeb-4fc2-be30-0f9c737b6f1a")
 	)
 	(label "MISO"
 		(at 38.1 92.71 0)
