@@ -5,6 +5,113 @@
 	(uuid "924accad-be92-4480-bc99-032db7a5947e")
 	(paper "A4")
 	(lib_symbols
+		(symbol "Connector:TestPoint"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -1528,6 +1635,12 @@
 		(uuid "94ba8eae-f0ef-4d98-9c60-7feafa1591e6")
 	)
 	(junction
+		(at 130.81 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf1d52d5-33e9-422d-a08b-4100a7ea9db7")
+	)
+	(junction
 		(at 152.4 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1755,7 +1868,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 104.14) (xy 133.35 104.14)
+			(xy 123.19 104.14) (xy 130.81 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1822,6 +1935,16 @@
 			(type default)
 		)
 		(uuid "9eb51724-91c7-47b2-bfef-88a993050bd8")
+	)
+	(wire
+		(pts
+			(xy 130.81 104.14) (xy 133.35 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2140234-4081-4474-b373-b63a23970be3")
 	)
 	(wire
 		(pts
@@ -2217,10 +2340,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0b2d6b00-e603-48c8-815f-b5433e73f6e3")
 		(property "Reference" "R6"
-			(at 125.73 107.9499 0)
+			(at 125.222 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2229,7 +2351,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 125.73 110.4899 0)
+			(at 125.222 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2865,6 +2987,77 @@
 				)
 				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
 					(reference "#PWR042")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 130.81 104.14 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "5650d4cf-cea6-4b79-a95b-844df4bd4653")
+		(property "Reference" "TP4"
+			(at 132.842 109.474 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 128.27 106.1721 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 125.73 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 125.73 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 130.81 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1070f3d9-da80-4e24-a0d6-72626e7f366b")
+		)
+		(instances
+			(project "valrob-carte-moteur-cdf-1"
+				(path "/b89f538c-def5-4450-bb35-40e96c574400/046dd584-44f1-462d-a721-c6fc6e1dad4e"
+					(reference "TP4")
+					(unit 1)
+				)
+				(path "/b89f538c-def5-4450-bb35-40e96c574400/4610ebb9-9c7e-4d93-9787-ad1280502022"
+					(reference "TP5")
 					(unit 1)
 				)
 			)

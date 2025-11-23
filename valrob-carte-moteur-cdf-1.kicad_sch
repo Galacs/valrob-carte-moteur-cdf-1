@@ -4879,6 +4879,12 @@
 		(uuid "34218f49-b9c5-4174-8cab-5318bdd2ed94")
 	)
 	(junction
+		(at 29.21 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a4be4c9-33d3-4fcf-b770-7c63564be816")
+	)
+	(junction
 		(at 95.25 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4903,6 +4909,12 @@
 		(uuid "66dbc33e-6378-4e79-b358-8809b2639d31")
 	)
 	(junction
+		(at 104.14 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "70473833-d121-4b30-bc75-b0614cb3fef6")
+	)
+	(junction
 		(at 100.33 153.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4913,6 +4925,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7d664afa-4059-4ac1-a9ec-89b90d6997cd")
+	)
+	(junction
+		(at 119.38 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7e57f3aa-14ac-4900-a9c3-d90fffd87217")
 	)
 	(junction
 		(at 57.15 177.8)
@@ -5132,6 +5150,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 177.8) (xy 121.92 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17254a94-b79e-4a75-8210-9e2436409b1e")
+	)
+	(wire
+		(pts
 			(xy 50.8 147.32) (xy 43.18 147.32)
 		)
 		(stroke
@@ -5272,7 +5300,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 177.8) (xy 33.02 177.8)
+			(xy 26.67 177.8) (xy 29.21 177.8)
 		)
 		(stroke
 			(width 0)
@@ -5892,7 +5920,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 143.51) (xy 109.22 143.51)
+			(xy 100.33 143.51) (xy 104.14 143.51)
 		)
 		(stroke
 			(width 0)
@@ -6382,6 +6410,16 @@
 	)
 	(wire
 		(pts
+			(xy 104.14 143.51) (xy 109.22 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b31c6460-3a39-4a98-8afc-6de8decf494c")
+	)
+	(wire
+		(pts
 			(xy 43.18 142.24) (xy 43.18 144.78)
 		)
 		(stroke
@@ -6649,6 +6687,16 @@
 			(type default)
 		)
 		(uuid "d436bdee-f71c-41c0-9251-06819cc30b36")
+	)
+	(wire
+		(pts
+			(xy 29.21 177.8) (xy 33.02 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6772d25-0bc2-44e0-85df-e241f6415c8f")
 	)
 	(wire
 		(pts
@@ -6968,7 +7016,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "44416072-7730-41df-9c68-62c10f09a58c")
+		(uuid "44416072-7730-41df-9c68-62c10f09a58d")
 	)
 	(label "SCLK"
 		(at 265.43 144.78 0)
@@ -11621,6 +11669,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 121.92 177.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "a3b0ec36-4dd6-4bb4-b1c0-21380593cb5c")
+		(property "Reference" "TP2"
+			(at 119.888 172.466 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 124.46 175.7679 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 127 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 127 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 121.92 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0817da39-d993-4b6e-a8bd-f563700eaa06")
+		)
+		(instances
+			(project "valrob-carte-moteur-cdf-1"
+				(path "/b89f538c-def5-4450-bb35-40e96c574400"
+					(reference "TP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Pers:H5VU10U")
 		(at 99.06 182.88 90)
 		(mirror x)
@@ -11722,6 +11837,73 @@
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400"
 					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 104.14 143.51 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "a69045cb-d00e-4c75-bed8-05957577f477")
+		(property "Reference" "TP3"
+			(at 102.108 138.176 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 106.68 141.4779 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 109.22 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 109.22 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 104.14 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "84977140-96d6-499d-bdde-3ca32a879c66")
+		)
+		(instances
+			(project "valrob-carte-moteur-cdf-1"
+				(path "/b89f538c-def5-4450-bb35-40e96c574400"
+					(reference "TP3")
 					(unit 1)
 				)
 			)
@@ -13118,6 +13300,73 @@
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400"
 					(reference "TP17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 29.21 177.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "d36ce7bf-daaf-4a09-af8c-d7e7b4be19bc")
+		(property "Reference" "TP1"
+			(at 27.178 172.466 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 31.75 175.7679 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+			(at 34.29 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 34.29 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 29.21 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "81b1dac4-d497-458a-9e1f-01d2649dbbd2")
+		)
+		(instances
+			(project "valrob-carte-moteur-cdf-1"
+				(path "/b89f538c-def5-4450-bb35-40e96c574400"
+					(reference "TP1")
 					(unit 1)
 				)
 			)
