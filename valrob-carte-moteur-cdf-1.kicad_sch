@@ -4899,7 +4899,7 @@
 	)
 	(text "EN RC delay"
 		(exclude_from_sim no)
-		(at 122.174 53.594 0)
+		(at 116.078 46.736 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5166,10 +5166,6 @@
 		(uuid "28d61652-9f6a-46db-983f-3e27c1d6bb75")
 	)
 	(no_connect
-		(at 143.51 73.66)
-		(uuid "4904cb18-8820-44e7-ab05-a8d997d61e05")
-	)
-	(no_connect
 		(at 234.95 78.74)
 		(uuid "491339c9-7852-4080-93ed-be1fb632ad48")
 	)
@@ -5188,18 +5184,6 @@
 	(no_connect
 		(at 45.72 85.09)
 		(uuid "b77c3ca0-72a0-4594-b0cc-db14ff81e3c6")
-	)
-	(no_connect
-		(at 143.51 68.58)
-		(uuid "c180573e-7521-4b8b-8134-0b66bbdbcafe")
-	)
-	(no_connect
-		(at 143.51 76.2)
-		(uuid "d82f741e-71bc-45a7-ae35-41ae10591ef1")
-	)
-	(no_connect
-		(at 143.51 71.12)
-		(uuid "e1e8a1de-c4e5-480e-a38f-aa5be0a6c085")
 	)
 	(wire
 		(pts
@@ -5430,16 +5414,6 @@
 			(type default)
 		)
 		(uuid "203e64b6-9a2c-4902-a1c5-6dae07524c3b")
-	)
-	(wire
-		(pts
-			(xy 130.81 53.34) (xy 130.81 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "209974b0-b3e5-4a2d-87a6-9d0b925326c8")
 	)
 	(wire
 		(pts
@@ -5883,6 +5857,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 73.66) (xy 135.89 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51be5f6a-9b90-4059-b9bc-18e3a0bdf954")
+	)
+	(wire
+		(pts
 			(xy 60.96 110.49) (xy 64.77 110.49)
 		)
 		(stroke
@@ -6033,6 +6017,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 54.61) (xy 120.65 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69b4fe02-07aa-4b6c-96d5-7f638b9757ff")
+	)
+	(wire
+		(pts
 			(xy 238.76 116.84) (xy 238.76 109.22)
 		)
 		(stroke
@@ -6100,6 +6094,16 @@
 			(type default)
 		)
 		(uuid "754582dc-81e1-4861-b0e6-c4c16d61f89a")
+	)
+	(wire
+		(pts
+			(xy 143.51 71.12) (xy 135.89 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77269ed3-e50e-43b1-872b-4bddf3af3ee6")
 	)
 	(wire
 		(pts
@@ -6310,6 +6314,16 @@
 			(type default)
 		)
 		(uuid "8e916e7a-1b2e-48aa-8231-229438b8d183")
+	)
+	(wire
+		(pts
+			(xy 120.65 53.34) (xy 121.92 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f39b679-4386-499f-825d-232b09098b56")
 	)
 	(wire
 		(pts
@@ -6843,16 +6857,6 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 63.5) (xy 130.81 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ca01377d-0ea2-46a2-8aaf-621096a66d61")
-	)
-	(wire
-		(pts
 			(xy 132.08 185.42) (xy 134.62 185.42)
 		)
 		(stroke
@@ -6973,6 +6977,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 68.58) (xy 135.89 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcc8107a-3407-4abf-b32a-42e7ab3e0925")
+	)
+	(wire
+		(pts
 			(xy 44.45 128.27) (xy 44.45 129.54)
 		)
 		(stroke
@@ -7053,6 +7067,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 53.34) (xy 130.81 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebdd5e01-e4ec-4236-b7a9-d1c215e25d4a")
+	)
+	(wire
+		(pts
 			(xy 234.95 81.28) (xy 242.57 81.28)
 		)
 		(stroke
@@ -7080,6 +7104,16 @@
 			(type default)
 		)
 		(uuid "ee1584dd-7e00-48c5-8188-a516b3ead468")
+	)
+	(wire
+		(pts
+			(xy 143.51 76.2) (xy 135.89 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0eee36c-0d7f-4d8c-9772-89ba4f9edddd")
 	)
 	(wire
 		(pts
@@ -11889,8 +11923,8 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 130.81 59.69 0)
-		(mirror y)
+		(at 125.73 53.34 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11898,25 +11932,23 @@
 		(dnp no)
 		(uuid "98aa967a-bb48-416e-9db2-cceaf38cef80")
 		(property "Reference" "C5"
-			(at 127 58.4199 0)
+			(at 125.73 47.244 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "1u"
-			(at 127 60.9599 0)
+			(at 125.73 49.784 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 129.8448 63.5 0)
+			(at 129.54 54.3052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11925,7 +11957,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 130.81 59.69 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11934,7 +11966,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 130.81 59.69 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11943,7 +11975,7 @@
 			)
 		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
-			(at 130.81 59.69 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11952,7 +11984,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "CL10A105KB8NNNC"
-			(at 130.81 59.69 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11961,7 +11993,7 @@
 			)
 		)
 		(property "Basic" "Y"
-			(at 130.81 59.69 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11970,7 +12002,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C15849"
-			(at 130.81 59.69 0)
+			(at 125.73 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12898,8 +12930,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 130.81 48.26 0)
-		(mirror x)
+		(at 130.81 48.26 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12907,7 +12938,7 @@
 		(dnp no)
 		(uuid "acd99115-5aa0-4aae-ac97-4eca51721060")
 		(property "Reference" "R5"
-			(at 128.27 46.9899 0)
+			(at 133.35 46.9899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12916,7 +12947,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 128.27 49.5299 0)
+			(at 133.35 49.5299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12925,7 +12956,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 129.032 48.26 90)
+			(at 132.588 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13070,7 +13101,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 130.81 64.77 0)
+		(at 120.65 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13078,7 +13109,7 @@
 		(dnp no)
 		(uuid "b0adb1b0-e641-4ad4-94bf-9fcd424dba44")
 		(property "Reference" "#PWR018"
-			(at 130.81 71.12 0)
+			(at 120.65 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13087,7 +13118,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 130.81 69.088 0)
+			(at 120.65 58.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13095,7 +13126,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 64.77 0)
+			(at 120.65 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13104,7 +13135,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 64.77 0)
+			(at 120.65 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13113,7 +13144,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 130.81 64.77 0)
+			(at 120.65 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14422,6 +14453,80 @@
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Pin")
+		(at 130.81 71.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "df725395-088e-4ff6-9794-2c22af5b22db")
+		(property "Reference" "J9"
+			(at 131.064 65.786 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04_Pin"
+			(at 128.27 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 130.81 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 130.81 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 130.81 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "58d97b5e-040d-49c7-90b5-ceb20e2348d1")
+		)
+		(pin "3"
+			(uuid "ba7f9a8f-53a0-4ca4-8ffc-4853b8ced0ae")
+		)
+		(pin "2"
+			(uuid "e498676d-a863-4a4e-9db2-93e4882816af")
+		)
+		(pin "1"
+			(uuid "d25d5d0e-9d2c-4f93-9242-5a2b839d0397")
+		)
+		(instances
+			(project "valrob-carte-moteur-cdf-1"
+				(path "/b89f538c-def5-4450-bb35-40e96c574400"
+					(reference "J9")
 					(unit 1)
 				)
 			)
