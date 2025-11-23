@@ -3983,6 +3983,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 64.77) (xy 200.66 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d142e68-d315-42c8-a83f-f3bca86336e3")
+	)
+	(wire
+		(pts
 			(xy 76.2 57.15) (xy 76.2 59.69)
 		)
 		(stroke
@@ -4160,6 +4170,16 @@
 			(type default)
 		)
 		(uuid "4ce6164b-6833-475e-8285-95f69161be3b")
+	)
+	(wire
+		(pts
+			(xy 180.34 67.31) (xy 189.23 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "534d36c0-de50-43c7-b4f1-2d8fce6a9dd9")
 	)
 	(wire
 		(pts
@@ -4473,6 +4493,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 64.77) (xy 189.23 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0776a70-285e-432a-abe9-f2080e1d5c4f")
+	)
+	(wire
+		(pts
 			(xy 43.18 142.24) (xy 43.18 144.78)
 		)
 		(stroke
@@ -4630,6 +4660,16 @@
 			(type default)
 		)
 		(uuid "d436bdee-f71c-41c0-9251-06819cc30b36")
+	)
+	(wire
+		(pts
+			(xy 196.85 67.31) (xy 200.66 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6c20e24-fe9b-4af3-8d80-264160a9ad4b")
 	)
 	(wire
 		(pts
@@ -4811,6 +4851,16 @@
 		)
 		(uuid "85ab6af3-4fb5-4617-ad1c-925eebf6547b")
 	)
+	(label "D+"
+		(at 200.66 64.77 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "85bca434-60b5-4df3-b181-85d9204488fc")
+	)
 	(label "BOOT"
 		(at 181.61 72.39 0)
 		(effects
@@ -4831,6 +4881,26 @@
 		)
 		(uuid "bc585ae9-15d8-4202-a996-a129badbed8d")
 	)
+	(label "ESP_D+"
+		(at 189.23 64.77 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c06d4870-5ff3-4a58-a805-fb526ee35429")
+	)
+	(label "D-"
+		(at 200.66 67.31 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c7a09c9e-119f-4e5d-b708-7c3ceab8c09a")
+	)
 	(label "D-"
 		(at 72.39 144.78 180)
 		(effects
@@ -4840,6 +4910,16 @@
 			(justify right bottom)
 		)
 		(uuid "e014de41-425d-4b9b-9f9e-3be59c2f51b8")
+	)
+	(label "ESP_D-"
+		(at 189.23 67.31 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e643b7eb-435c-4dd6-887a-c385a4358528")
 	)
 	(symbol
 		(lib_id "Connector:USB_C_Receptacle_USB2.0_14P")
@@ -5718,6 +5798,110 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 193.04 67.31 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2504fc8f-a2cb-4724-ba6a-5fbdfd69168f")
+		(property "Reference" "R14"
+			(at 193.04 69.596 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22"
+			(at 193.04 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 193.04 65.532 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 193.04 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 193.04 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Basic" "Y"
+			(at 193.04 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25092"
+			(at 193.04 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 193.04 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF220JTCE"
+			(at 193.04 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "22481338-d213-44ef-9320-b5752dbfebb3")
+		)
+		(pin "2"
+			(uuid "8965ccc0-0bfc-40e6-829a-3edc735f22fa")
+		)
+		(instances
+			(project "valrob-carte-moteur-cdf-1"
+				(path "/b89f538c-def5-4450-bb35-40e96c574400"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 62.23 137.16 0)
 		(mirror y)
@@ -5881,6 +6065,109 @@
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400"
 					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 193.04 64.77 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "50b28890-6678-48de-996f-0c46ccb97be5")
+		(property "Reference" "R10"
+			(at 193.04 62.484 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22"
+			(at 193.04 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 193.04 66.548 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 193.04 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 193.04 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Basic" "Y"
+			(at 193.04 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25092"
+			(at 193.04 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 193.04 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF220JTCE"
+			(at 193.04 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "da57c11c-028a-4a0e-abe9-3a72c4ff3e80")
+		)
+		(pin "2"
+			(uuid "9e968dd5-854e-4b9e-b56f-06bd90fe879b")
+		)
+		(instances
+			(project "valrob-carte-moteur-cdf-1"
+				(path "/b89f538c-def5-4450-bb35-40e96c574400"
+					(reference "R10")
 					(unit 1)
 				)
 			)
