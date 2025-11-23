@@ -24666,6 +24666,18 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "JLCJLCJLCJLC"
+		(at 98.25 112.25 0)
+		(layer "B.SilkS")
+		(uuid "516cc95d-9cb1-4dbc-a251-a2da03beee94")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "MOSI"
 		(at 108.25 91 270)
 		(layer "B.SilkS" knockout)
