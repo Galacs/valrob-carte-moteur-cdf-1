@@ -2747,6 +2747,155 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Pers:H5VU10U"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "H5VU10U"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Pers:Diode_DFN1006"
+				(at 0 -4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2504101957_hongjiacheng-H5VU10U_C22395519.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "-55℃~+155℃ 0.8pF 16V 200nA 55W@8/20us 5A@8/20us 5V 6V ESD IEC 61000-4-2 Unidirectional DFN1006-2L ESD and Surge Protection (TVS/ESD) ROHS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "zener diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "D*DO?41*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "H5VU10U_0_1"
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "H5VU10U_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Power_Protection:USBLC6-2SC6"
 			(pin_names
 				(hide yes)
@@ -4257,7 +4406,7 @@
 	)
 	(text "5V"
 		(exclude_from_sim no)
-		(at 90.424 190.246 0)
+		(at 88.646 190.246 0)
 		(effects
 			(font
 				(size 1.905 1.905)
@@ -4280,7 +4429,7 @@
 	)
 	(text "12V"
 		(exclude_from_sim no)
-		(at 115.824 190.246 0)
+		(at 111.76 190.5 0)
 		(effects
 			(font
 				(size 1.905 1.905)
@@ -4358,6 +4507,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2e2f7f21-2141-4ad4-9516-a1fb59b163c1")
+	)
+	(junction
+		(at 115.57 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "34218f49-b9c5-4174-8cab-5318bdd2ed94")
+	)
+	(junction
+		(at 95.25 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "482f7e5d-bf4d-424a-94b8-a318c6675465")
 	)
 	(junction
 		(at 41.91 154.94)
@@ -4503,6 +4664,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 177.8) (xy 119.38 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d88b7ba-cef1-4c85-a719-6342e1503637")
+	)
+	(wire
+		(pts
 			(xy 50.8 147.32) (xy 43.18 147.32)
 		)
 		(stroke
@@ -4543,7 +4714,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 181.61) (xy 116.84 180.34)
+			(xy 114.3 181.61) (xy 114.3 180.34)
 		)
 		(stroke
 			(width 0)
@@ -4553,7 +4724,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 176.53) (xy 93.98 177.8)
+			(xy 95.25 176.53) (xy 95.25 177.8)
 		)
 		(stroke
 			(width 0)
@@ -4580,6 +4751,16 @@
 			(type default)
 		)
 		(uuid "22fc8343-3424-4e05-be1e-4a853e51107d")
+	)
+	(wire
+		(pts
+			(xy 95.25 177.8) (xy 99.06 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "239f782f-570c-462a-86d3-0fb05f31821a")
 	)
 	(wire
 		(pts
@@ -4753,6 +4934,16 @@
 	)
 	(wire
 		(pts
+			(xy 115.57 177.8) (xy 119.38 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d6f8ea1-cc0d-483e-9b4e-3eb75f72b6fb")
+	)
+	(wire
+		(pts
 			(xy 50.8 137.16) (xy 49.53 137.16)
 		)
 		(stroke
@@ -4793,7 +4984,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 180.34) (xy 116.84 180.34)
+			(xy 113.03 180.34) (xy 114.3 180.34)
 		)
 		(stroke
 			(width 0)
@@ -4943,6 +5134,26 @@
 	)
 	(wire
 		(pts
+			(xy 99.06 186.69) (xy 99.06 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f8eac3f-65c9-4f4b-b689-04d24865b99c")
+	)
+	(wire
+		(pts
+			(xy 119.38 186.69) (xy 119.38 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "828a6df5-082e-460b-ad4a-19656fb7a563")
+	)
+	(wire
+		(pts
 			(xy 26.67 180.34) (xy 26.67 177.8)
 		)
 		(stroke
@@ -5083,6 +5294,16 @@
 	)
 	(wire
 		(pts
+			(xy 99.06 177.8) (xy 99.06 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b8b179f-75b6-4f60-b70b-65ce85654f80")
+	)
+	(wire
+		(pts
 			(xy 214.63 97.79) (xy 205.74 97.79)
 		)
 		(stroke
@@ -5143,7 +5364,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 177.8) (xy 92.71 177.8)
+			(xy 92.71 177.8) (xy 95.25 177.8)
 		)
 		(stroke
 			(width 0)
@@ -5513,7 +5734,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 176.53) (xy 116.84 177.8)
+			(xy 115.57 176.53) (xy 115.57 177.8)
 		)
 		(stroke
 			(width 0)
@@ -5553,7 +5774,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 177.8) (xy 115.57 177.8)
+			(xy 113.03 177.8) (xy 115.57 177.8)
 		)
 		(stroke
 			(width 0)
@@ -6181,7 +6402,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 116.84 181.61 0)
+		(at 114.3 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6189,7 +6410,7 @@
 		(dnp no)
 		(uuid "0ef3aeb8-2c58-4a83-95cf-75a52aff2a7e")
 		(property "Reference" "#PWR011"
-			(at 116.84 187.96 0)
+			(at 114.3 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6198,7 +6419,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 116.84 185.928 0)
+			(at 114.3 185.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6206,7 +6427,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 181.61 0)
+			(at 114.3 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6215,7 +6436,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 181.61 0)
+			(at 114.3 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6224,7 +6445,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 116.84 181.61 0)
+			(at 114.3 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6373,6 +6594,71 @@
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400"
 					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 99.06 187.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1ced36e8-1267-4917-82a0-2dace9e10375")
+		(property "Reference" "#PWR016"
+			(at 99.06 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 102.87 191.008 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 99.06 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 99.06 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 99.06 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7f9056c3-96f0-43d5-8436-54dd0cb7d0ad")
+		)
+		(instances
+			(project "valrob-carte-moteur-cdf-1"
+				(path "/b89f538c-def5-4450-bb35-40e96c574400"
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -7041,16 +7327,15 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 93.98 176.53 0)
+		(at 95.25 176.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4a0abe61-6cf9-4356-ab31-2a0dc3c8dc5e")
 		(property "Reference" "#PWR012"
-			(at 93.98 180.34 0)
+			(at 95.25 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7059,7 +7344,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 93.98 171.45 0)
+			(at 95.25 172.212 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7067,7 +7352,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 93.98 176.53 0)
+			(at 95.25 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7076,7 +7361,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 176.53 0)
+			(at 95.25 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7085,7 +7370,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 93.98 176.53 0)
+			(at 95.25 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7645,6 +7930,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 119.38 187.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5c1ed7d3-0a32-481a-a79b-ce2416ac568d")
+		(property "Reference" "#PWR017"
+			(at 119.38 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 121.666 191.516 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 119.38 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 119.38 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eb98c49c-b754-47a2-b00c-2eaa8115dd75")
+		)
+		(instances
+			(project "valrob-carte-moteur-cdf-1"
+				(path "/b89f538c-def5-4450-bb35-40e96c574400"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 139.7 179.07 0)
 		(unit 1)
@@ -8142,16 +8492,15 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 116.84 176.53 0)
+		(at 115.57 176.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8814a356-e232-4a8d-b1ba-16958ba9aaa7")
 		(property "Reference" "#PWR013"
-			(at 116.84 180.34 0)
+			(at 115.57 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8160,7 +8509,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 116.84 171.45 0)
+			(at 115.316 172.212 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8168,7 +8517,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 176.53 0)
+			(at 115.57 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8177,7 +8526,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 176.53 0)
+			(at 115.57 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8186,7 +8535,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 116.84 176.53 0)
+			(at 115.57 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8719,6 +9068,113 @@
 		)
 	)
 	(symbol
+		(lib_id "Pers:H5VU10U")
+		(at 99.06 182.88 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a56b943a-8493-40e4-884d-710e9cd16cdb")
+		(property "Reference" "D3"
+			(at 103.378 183.134 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "P6SMB6.8CA/TR13"
+			(at 96.52 184.1499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMB"
+			(at 103.505 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C78395.pdf"
+			(at 99.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10.5V 1uA 5.8V 58.1A 6.45V 600W Bidirectional TVS SMB(DO-214AA) ESD and Surge Protection (TVS/ESD) ROHS"
+			(at 99.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Basic" "Y"
+			(at 99.06 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C78395"
+			(at 99.06 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Brightking"
+			(at 99.06 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "P6SMB6.8CA/TR13"
+			(at 99.06 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "85b04db2-db02-4bd4-a031-43590277e1eb")
+		)
+		(pin "2"
+			(uuid "1a0e16c4-6be3-43f9-adc6-58e24d2fc07f")
+		)
+		(instances
+			(project "valrob-carte-moteur-cdf-1"
+				(path "/b89f538c-def5-4450-bb35-40e96c574400"
+					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 205.74 92.71 0)
 		(mirror y)
@@ -8790,7 +9246,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 110.49 180.34 180)
+		(at 107.95 180.34 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8799,7 +9255,7 @@
 		(fields_autoplaced yes)
 		(uuid "a84933cb-a273-44b7-ab28-6d84fbd96e04")
 		(property "Reference" "J3"
-			(at 110.49 173.99 0)
+			(at 107.95 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8807,7 +9263,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 110.49 173.99 0)
+			(at 107.95 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8816,7 +9272,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 110.49 180.34 0)
+			(at 107.95 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8825,7 +9281,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 110.49 180.34 0)
+			(at 107.95 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8834,7 +9290,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 110.49 180.34 0)
+			(at 107.95 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9657,6 +10113,113 @@
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400"
 					(reference "U7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Pers:H5VU10U")
+		(at 119.38 182.88 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c812c247-a3c2-4cd9-8703-0bc23e0851b7")
+		(property "Reference" "D4"
+			(at 123.698 183.134 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SMAJ12A"
+			(at 116.84 184.1499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMA"
+			(at 123.825 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C19077531.pdf"
+			(at 119.38 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "12V 14.7V 19.9V 1uA 20.1A@10/1000us 400W@10/1000us IEC 61000-4-2 TVS"
+			(at 119.38 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Basic" "E"
+			(at 119.38 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C19077531"
+			(at 119.38 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "hongjiacheng"
+			(at 119.38 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SMAJ12A"
+			(at 119.38 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "02ee5458-24fd-4403-a434-bf6838ffbbf9")
+		)
+		(pin "2"
+			(uuid "16672291-b6d4-4815-9f75-a37eadb5d69f")
+		)
+		(instances
+			(project "valrob-carte-moteur-cdf-1"
+				(path "/b89f538c-def5-4450-bb35-40e96c574400"
+					(reference "D4")
 					(unit 1)
 				)
 			)
