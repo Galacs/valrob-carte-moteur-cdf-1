@@ -4829,7 +4829,7 @@
 	)
 	(text "AP2112K 3.3v"
 		(exclude_from_sim no)
-		(at 26.924 168.402 0)
+		(at 68.072 167.894 0)
 		(effects
 			(font
 				(size 1.905 1.905)
@@ -4912,6 +4912,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "054e9eec-4009-42a9-a7bd-237dda1aa4ce")
+	)
+	(junction
+		(at 31.75 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0a6aec55-626d-4b46-90b3-8b49f47bc705")
 	)
 	(junction
 		(at 179.07 29.21)
@@ -5056,6 +5062,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8a043776-381f-4008-b705-c658890c3b29")
+	)
+	(junction
+		(at 53.34 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8c39f620-9b61-4585-b9b6-f6bc06e4bfdb")
 	)
 	(junction
 		(at 109.22 143.51)
@@ -5551,6 +5563,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 177.8) (xy 57.15 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ad39328-5d32-4b6c-a3a9-c8d56cf56432")
+	)
+	(wire
+		(pts
 			(xy 92.71 180.34) (xy 93.98 180.34)
 		)
 		(stroke
@@ -5768,6 +5790,16 @@
 			(type default)
 		)
 		(uuid "40628fff-8c8f-4d63-acf5-ee502b7b0fd7")
+	)
+	(wire
+		(pts
+			(xy 31.75 177.8) (xy 33.02 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41f84048-639f-4bd0-a5c9-60269ab5e407")
 	)
 	(wire
 		(pts
@@ -6461,6 +6493,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 170.18) (xy 53.34 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a42e6e4f-2468-4271-ad3e-8a2e3ab0ce79")
+	)
+	(wire
+		(pts
 			(xy 92.71 177.8) (xy 95.25 177.8)
 		)
 		(stroke
@@ -6851,7 +6893,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 177.8) (xy 57.15 177.8)
+			(xy 50.8 177.8) (xy 53.34 177.8)
 		)
 		(stroke
 			(width 0)
@@ -6891,7 +6933,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 177.8) (xy 33.02 177.8)
+			(xy 29.21 177.8) (xy 31.75 177.8)
 		)
 		(stroke
 			(width 0)
@@ -6908,6 +6950,16 @@
 			(type default)
 		)
 		(uuid "d6c20e24-fe9b-4af3-8d80-264160a9ad4b")
+	)
+	(wire
+		(pts
+			(xy 31.75 170.18) (xy 31.75 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d72f8fde-8981-453e-9965-b2a99b85298a")
 	)
 	(wire
 		(pts
@@ -7028,6 +7080,16 @@
 			(type default)
 		)
 		(uuid "ee1584dd-7e00-48c5-8188-a516b3ead468")
+	)
+	(wire
+		(pts
+			(xy 45.72 170.18) (xy 53.34 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2173204-75d1-41a0-a55b-4f405a7d8c43")
 	)
 	(wire
 		(pts
@@ -7158,6 +7220,16 @@
 			(type default)
 		)
 		(uuid "fcce7d4e-0df8-4cd2-b1dd-9a24b75b8c86")
+	)
+	(wire
+		(pts
+			(xy 38.1 170.18) (xy 31.75 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe16e979-4987-4f6a-995b-6601c2c7b03d")
 	)
 	(wire
 		(pts
@@ -8661,10 +8733,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1f7e7d1c-171e-4e1b-9722-bc47acf50a09")
 		(property "Reference" "U1"
-			(at 41.91 171.45 0)
+			(at 46.228 187.198 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9169,6 +9240,111 @@
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400"
 					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Schottky")
+		(at 41.91 170.18 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "392fc894-6513-4af6-b5ab-56a618b46855")
+		(property "Reference" "D16"
+			(at 42.164 167.386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D_Schottky"
+			(at 41.5925 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMA"
+			(at 41.91 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 41.91 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Schottky diode"
+			(at 41.91 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Microdiode Semiconductor (MDD)"
+			(at 41.91 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SS54"
+			(at 41.91 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Basic" "Y"
+			(at 41.91 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C22452"
+			(at 41.91 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8ec4a101-8638-4a57-b585-77f1b02992d8")
+		)
+		(pin "1"
+			(uuid "dd1c23b0-50ad-4a11-84f7-55f0852e34fb")
+		)
+		(instances
+			(project "valrob-carte-moteur-cdf-1"
+				(path "/b89f538c-def5-4450-bb35-40e96c574400"
+					(reference "D16")
 					(unit 1)
 				)
 			)
