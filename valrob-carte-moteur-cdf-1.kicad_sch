@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "b89f538c-def5-4450-bb35-40e96c574400")
 	(paper "A4")
+	(title_block
+		(title "Carte moteur CDF 1")
+		(date "2025-11-23")
+		(rev "01")
+		(company "Valrobotik")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Pin"
 			(pin_names
