@@ -545,6 +545,8 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)"
       },
       {
+        "diff_pair_gap": 0.2,
+        "diff_pair_width": 0.3,
         "name": "USB",
         "pcb_color": "rgb(34, 255, 22)",
         "priority": 3,
