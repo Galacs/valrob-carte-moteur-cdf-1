@@ -5032,6 +5032,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 77.47) (xy 219.71 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03c308ee-7471-4dab-a428-8ebaf0d610bc")
+	)
+	(wire
+		(pts
 			(xy 62.23 127) (xy 62.23 128.27)
 		)
 		(stroke
@@ -5092,6 +5102,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 107.95) (xy 215.9 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c7774e1-7c5f-4069-a5ff-fc192b33852d")
+	)
+	(wire
+		(pts
 			(xy 119.38 177.8) (xy 119.38 179.07)
 		)
 		(stroke
@@ -5099,6 +5119,16 @@
 			(type default)
 		)
 		(uuid "0d88b7ba-cef1-4c85-a719-6342e1503637")
+	)
+	(wire
+		(pts
+			(xy 212.09 105.41) (xy 219.71 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e2c412c-bcab-4d88-8032-6f6b2eea7508")
 	)
 	(wire
 		(pts
@@ -5132,6 +5162,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 85.09) (xy 238.76 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19d2c284-d5b5-42d8-8d67-0efd2ce841b6")
+	)
+	(wire
+		(pts
 			(xy 248.92 156.21) (xy 248.92 157.48)
 		)
 		(stroke
@@ -5139,6 +5179,16 @@
 			(type default)
 		)
 		(uuid "1a94cb0f-705f-44d0-a062-47129ccceebe")
+	)
+	(wire
+		(pts
+			(xy 219.71 107.95) (xy 215.9 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1acb2c7c-5fc8-4b49-b408-701d832b7ea0")
 	)
 	(wire
 		(pts
@@ -5342,6 +5392,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 87.63) (xy 238.76 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31c468d2-1645-4a6f-b509-751113979145")
+	)
+	(wire
+		(pts
 			(xy 43.18 144.78) (xy 40.64 144.78)
 		)
 		(stroke
@@ -5349,6 +5409,16 @@
 			(type default)
 		)
 		(uuid "34174fd5-42a6-460a-b55c-c558875096e9")
+	)
+	(wire
+		(pts
+			(xy 212.09 85.09) (xy 219.71 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "342859a1-5111-498d-96df-bd6661942e5e")
 	)
 	(wire
 		(pts
@@ -5509,6 +5579,26 @@
 			(type default)
 		)
 		(uuid "40628fff-8c8f-4d63-acf5-ee502b7b0fd7")
+	)
+	(wire
+		(pts
+			(xy 212.09 82.55) (xy 219.71 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4084565b-e5e3-443e-97c2-5bb529d8a269")
+	)
+	(wire
+		(pts
+			(xy 212.09 74.93) (xy 219.71 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42b2ef66-af80-4ca9-8c1f-92e8fa6a92c8")
 	)
 	(wire
 		(pts
@@ -5679,6 +5769,16 @@
 			(type default)
 		)
 		(uuid "6dfa7295-9727-49e1-a962-3fe7232055e7")
+	)
+	(wire
+		(pts
+			(xy 212.09 97.79) (xy 219.71 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fce0464-3546-4c88-bb00-8448f4ac98df")
 	)
 	(wire
 		(pts
@@ -5902,6 +6002,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 107.95) (xy 238.76 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cc648d8-bd99-47fd-8650-14f499cda22e")
+	)
+	(wire
+		(pts
 			(xy 107.95 46.99) (xy 120.65 46.99)
 		)
 		(stroke
@@ -5962,6 +6072,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 87.63) (xy 219.71 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96160cb2-d282-49f4-9c55-0bb9582e4a0d")
+	)
+	(wire
+		(pts
 			(xy 256.54 157.48) (xy 260.35 157.48)
 		)
 		(stroke
@@ -6012,6 +6132,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 102.87) (xy 219.71 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ad650d5-6c45-4440-b50d-5531be41edda")
+	)
+	(wire
+		(pts
 			(xy 99.06 177.8) (xy 99.06 179.07)
 		)
 		(stroke
@@ -6049,6 +6179,16 @@
 			(type default)
 		)
 		(uuid "9fc3c2cd-be40-4054-8343-88e95361c3b0")
+	)
+	(wire
+		(pts
+			(xy 234.95 105.41) (xy 238.76 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a03954b6-5963-4829-8ca3-886ea2330de2")
 	)
 	(wire
 		(pts
@@ -6122,6 +6262,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 95.25) (xy 219.71 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4e04f03-8e72-4088-b943-9e00ff56b59c")
+	)
+	(wire
+		(pts
 			(xy 264.16 147.32) (xy 273.05 147.32)
 		)
 		(stroke
@@ -6139,16 +6289,6 @@
 			(type default)
 		)
 		(uuid "a6e6ead3-b612-4d73-af5d-7c77cdd23fc0")
-	)
-	(wire
-		(pts
-			(xy 212.09 92.71) (xy 219.71 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a74415ca-4697-4e30-9b04-4aa0066a7c3e")
 	)
 	(wire
 		(pts
@@ -6262,16 +6402,6 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 82.55) (xy 219.71 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b8923268-bed9-4560-9f18-74b490b25cf0")
-	)
-	(wire
-		(pts
 			(xy 132.08 187.96) (xy 132.08 185.42)
 		)
 		(stroke
@@ -6339,16 +6469,6 @@
 			(type default)
 		)
 		(uuid "bea52325-b8cd-40cc-bd9e-336cf5841eb7")
-	)
-	(wire
-		(pts
-			(xy 212.09 87.63) (xy 219.71 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bf5c5c3c-a7f8-4f7b-888e-dd803b3aba50")
 	)
 	(wire
 		(pts
@@ -6449,16 +6569,6 @@
 			(type default)
 		)
 		(uuid "cee33e12-ccbb-4617-ba5e-b20d5ab6a631")
-	)
-	(wire
-		(pts
-			(xy 234.95 92.71) (xy 238.76 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d07f4029-8709-4daa-8424-eccec5fd8d4f")
 	)
 	(wire
 		(pts
@@ -6602,16 +6712,6 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 90.17) (xy 238.76 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e20548d3-b497-407d-91b4-9f517d5d6c63")
-	)
-	(wire
-		(pts
 			(xy 274.32 55.88) (xy 274.32 57.15)
 		)
 		(stroke
@@ -6639,16 +6739,6 @@
 			(type default)
 		)
 		(uuid "eae00f91-d151-47f6-be3f-204fed2455ec")
-	)
-	(wire
-		(pts
-			(xy 212.09 80.01) (xy 219.71 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb2fd8a0-23ff-4a95-b41a-43c832f19efa")
 	)
 	(wire
 		(pts
@@ -6732,6 +6822,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 100.33) (xy 212.09 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6bb7165-3527-47dc-86b7-0005886eab3b")
+	)
+	(wire
+		(pts
 			(xy 41.91 154.94) (xy 41.91 157.48)
 		)
 		(stroke
@@ -6769,16 +6869,6 @@
 			(type default)
 		)
 		(uuid "faa3e104-b0e2-4e9d-a49c-58a9322e49d2")
-	)
-	(wire
-		(pts
-			(xy 212.09 90.17) (xy 219.71 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe2fec4d-8e63-4178-ada9-7469125c86e9")
 	)
 	(wire
 		(pts
@@ -7777,7 +7867,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 243.84 90.17 0)
+		(at 243.84 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7785,7 +7875,7 @@
 		(dnp no)
 		(uuid "11fb2af9-0fc5-49db-9878-3f3d599b0082")
 		(property "Reference" "J7"
-			(at 246.38 92.964 0)
+			(at 246.38 87.884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7794,7 +7884,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 246.38 92.7099 0)
+			(at 246.38 87.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7804,7 +7894,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 90.17 0)
+			(at 243.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7813,7 +7903,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 243.84 90.17 0)
+			(at 243.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7822,7 +7912,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 243.84 90.17 0)
+			(at 243.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7837,7 +7927,7 @@
 			(uuid "3153eb4b-01a1-45bc-ad66-9190fe46e12c")
 		)
 		(instances
-			(project ""
+			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400"
 					(reference "J7")
 					(unit 1)
@@ -10035,6 +10125,76 @@
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400"
 					(reference "D13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 243.84 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6f6f48b0-3933-4551-83b1-0ff7737fa8ca")
+		(property "Reference" "J8"
+			(at 246.38 108.204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 246.38 107.9499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 243.84 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 243.84 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 243.84 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "498909dc-c04b-4218-9f6a-11a612553a05")
+		)
+		(pin "1"
+			(uuid "495692d5-d18d-45e8-8855-ef4fdb470ecd")
+		)
+		(instances
+			(project "valrob-carte-moteur-cdf-1"
+				(path "/b89f538c-def5-4450-bb35-40e96c574400"
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -13593,7 +13753,119 @@
 		)
 	)
 	(sheet
-		(at 219.71 77.47)
+		(at 219.71 72.39)
+		(size 15.24 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "046dd584-44f1-462d-a721-c6fc6e1dad4e")
+		(property "Sheetname" "DC Driver"
+			(at 219.71 72.136 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dc-motor-driver.kicad_sch"
+			(at 219.71 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "EN{slash}IN1" input
+			(at 219.71 74.93 180)
+			(uuid "db8ffde7-6e0b-4964-af63-87dd67d95cd4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT2" output
+			(at 234.95 87.63 0)
+			(uuid "573b56ff-5a33-43d6-a780-e4cf74115a5a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PH{slash}IN2" input
+			(at 219.71 77.47 180)
+			(uuid "a6733faf-3a7f-4391-91df-b32a0a6c2fe2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{FAULT}" input
+			(at 219.71 85.09 180)
+			(uuid "0221a552-2ca3-4f10-8b84-04703386b7b1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{SLEEP}" input
+			(at 219.71 82.55 180)
+			(uuid "e67654c2-08f1-480b-a902-7753a17e8dd7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OUT1" output
+			(at 234.95 85.09 0)
+			(uuid "395eecd1-a9f9-49ee-88b3-839f431bffa5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IPROPI" output
+			(at 219.71 87.63 180)
+			(uuid "4988df11-30be-4dc2-81c7-8ce957debd05")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "valrob-carte-moteur-cdf-1"
+				(path "/b89f538c-def5-4450-bb35-40e96c574400"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 219.71 92.71)
 		(size 15.24 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13607,9 +13879,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "1c0751a5-3d93-4ed4-8296-de1e24dd9751")
-		(property "Sheetname" "DC Driver"
-			(at 219.71 76.7584 0)
+		(uuid "6912cead-5b5a-455d-8e6b-198177a2f8e5")
+		(property "Sheetname" "DC Driver 2"
+			(at 219.71 91.9984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13618,7 +13890,7 @@
 			)
 		)
 		(property "Sheetfile" "dc-motor-driver.kicad_sch"
-			(at 219.71 95.8346 0)
+			(at 219.71 111.0746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13627,9 +13899,17 @@
 				(hide yes)
 			)
 		)
+		(property "Field2" ""
+			(at 219.71 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "EN{slash}IN1" input
-			(at 219.71 80.01 180)
-			(uuid "6be1781c-5113-4b5c-8865-0a11c63a5015")
+			(at 219.71 95.25 180)
+			(uuid "35bc535d-08b9-4d55-9744-5c8dd9ed9829")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13638,8 +13918,8 @@
 			)
 		)
 		(pin "OUT2" output
-			(at 234.95 92.71 0)
-			(uuid "cb1a1042-4264-47b7-b2eb-5e09f4998d93")
+			(at 234.95 107.95 0)
+			(uuid "754c6cb4-a275-49e3-bb26-e4c773a7e085")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13648,8 +13928,8 @@
 			)
 		)
 		(pin "PH{slash}IN2" input
-			(at 219.71 82.55 180)
-			(uuid "12bff04f-2fd3-4698-bf66-a5ed45c1aac5")
+			(at 219.71 97.79 180)
+			(uuid "b55f5dd9-8598-4222-bea2-33fecf0f7b45")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13658,8 +13938,8 @@
 			)
 		)
 		(pin "~{FAULT}" input
-			(at 219.71 90.17 180)
-			(uuid "521ed2ec-efae-4710-ac8b-9a1a828ecd1b")
+			(at 219.71 105.41 180)
+			(uuid "b1d50381-64d0-4fc0-83e0-4fd143892ee3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13668,8 +13948,8 @@
 			)
 		)
 		(pin "~{SLEEP}" input
-			(at 219.71 87.63 180)
-			(uuid "6dc20dc9-130c-4579-8039-418c07307b4f")
+			(at 219.71 102.87 180)
+			(uuid "ee39bb8f-576b-4b9f-bcad-845e9cac20de")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13678,8 +13958,8 @@
 			)
 		)
 		(pin "OUT1" output
-			(at 234.95 90.17 0)
-			(uuid "e9829004-d2c9-4643-a003-27519d224f09")
+			(at 234.95 105.41 0)
+			(uuid "1e266be9-8892-44a1-ae19-6af26aef00de")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13688,8 +13968,8 @@
 			)
 		)
 		(pin "IPROPI" output
-			(at 219.71 92.71 180)
-			(uuid "69ebe07b-b4f9-476d-81d8-024092f74f27")
+			(at 219.71 107.95 180)
+			(uuid "06a8efd0-2b76-4294-91a8-3936bd9ed7c9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13700,7 +13980,7 @@
 		(instances
 			(project "valrob-carte-moteur-cdf-1"
 				(path "/b89f538c-def5-4450-bb35-40e96c574400"
-					(page "2")
+					(page "3")
 				)
 			)
 		)
