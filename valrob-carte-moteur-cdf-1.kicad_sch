@@ -7995,7 +7995,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 61.2648 135.89 0)
 			(effects
 				(font
@@ -8031,7 +8031,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05A106MQ5NUNC"
+		(property "Manufacturer Part Number" "CL10A106KP8NNNC"
 			(at 62.23 132.08 0)
 			(effects
 				(font
@@ -8049,7 +8049,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C15525"
+		(property "JLCPCB Part #" "C19702"
 			(at 62.23 132.08 0)
 			(effects
 				(font
@@ -8249,7 +8249,7 @@
 		(at 87.63 180.34 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8859,7 +8859,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 247.65 61.722 90)
 			(effects
 				(font
@@ -8895,7 +8895,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25092"
+		(property "JLCPCB Part #" "C23345"
 			(at 247.65 63.5 90)
 			(effects
 				(font
@@ -8913,7 +8913,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "0402WGF220JTCE"
+		(property "Manufacturer Part Number" "0603WAF220JT5E"
 			(at 247.65 63.5 90)
 			(effects
 				(font
@@ -9478,7 +9478,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "4f023c3a-167b-4b22-81cc-1718235c5fe1")
@@ -9586,7 +9586,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 247.65 62.738 90)
 			(effects
 				(font
@@ -9622,7 +9622,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C25092"
+		(property "JLCPCB Part #" "C23345"
 			(at 247.65 60.96 90)
 			(effects
 				(font
@@ -9640,7 +9640,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "0402WGF220JTCE"
+		(property "Manufacturer Part Number" "0603WAF220JT5E"
 			(at 247.65 60.96 90)
 			(effects
 				(font
@@ -10150,6 +10150,42 @@
 				(hide yes)
 			)
 		)
+		(property "Basic" "E"
+			(at 109.22 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C19077392"
+			(at 109.22 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "hongjiacheng"
+			(at 109.22 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "BZT52B3V3"
+			(at 109.22 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bebb9e24-cf55-48fe-8c15-2c060aa5dcd4")
 		)
@@ -10578,7 +10614,7 @@
 		(at 266.7 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "6f6f48b0-3933-4551-83b1-0ff7737fa8ca")
@@ -10648,7 +10684,7 @@
 		(at 189.23 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10942,7 +10978,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "774ee834-9d85-4bc8-b1d7-ae56e77f6c40")
@@ -11080,6 +11116,42 @@
 				(hide yes)
 			)
 		)
+		(property "Basic" "Y"
+			(at 179.07 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
+			(at 179.07 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 179.07 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CC0603KRX7R9BB104"
+			(at 179.07 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f75956c3-d85b-47d8-8503-77481e16f3c7")
 		)
@@ -11141,6 +11213,42 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 100.33 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Basic" "Y"
+			(at 100.33 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C22978"
+			(at 100.33 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 100.33 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0603WAF3301T5E"
 			(at 100.33 148.59 0)
 			(effects
 				(font
@@ -11234,7 +11342,7 @@
 		(at 266.7 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "8a3341ec-8a26-422f-b1ea-1460b36223cf")
@@ -11631,7 +11739,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 129.8448 63.5 0)
 			(effects
 				(font
@@ -11667,7 +11775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05A105KA5NQNC"
+		(property "Manufacturer Part Number" "CL10A105KB8NNNC"
 			(at 130.81 59.69 0)
 			(effects
 				(font
@@ -11685,7 +11793,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C52923"
+		(property "JLCPCB Part #" "C15849"
 			(at 130.81 59.69 0)
 			(effects
 				(font
@@ -12319,6 +12427,42 @@
 				(hide yes)
 			)
 		)
+		(property "Basic" "Y"
+			(at 91.44 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
+			(at 91.44 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 91.44 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CC0603KRX7R9BB104"
+			(at 91.44 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8298f9a3-3a27-4483-b50a-ca8dfc64c47b")
 		)
@@ -12339,7 +12483,7 @@
 		(at 107.95 180.34 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12517,6 +12661,42 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 171.45 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Basic" "Y"
+			(at 171.45 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C45783"
+			(at 171.45 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics "
+			(at 171.45 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL21A226MAQNNNE"
 			(at 171.45 36.83 0)
 			(effects
 				(font

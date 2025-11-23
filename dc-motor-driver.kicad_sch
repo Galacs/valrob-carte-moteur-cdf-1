@@ -2393,6 +2393,42 @@
 				(hide yes)
 			)
 		)
+		(property "Basic" "Y"
+			(at 123.19 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C21190"
+			(at 123.19 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 123.19 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0603WAF1001T5E"
+			(at 123.19 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "56ab2581-bb4e-4348-9b36-83a01b90b549")
 		)
@@ -2536,6 +2572,42 @@
 			)
 		)
 		(property "Description" "H-Bridge Motor Driver, 6A, HTSSOP-16"
+			(at 151.13 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Basic" "X"
+			(at 151.13 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C1855818"
+			(at 151.13 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 151.13 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "DRV8874PWPR"
 			(at 151.13 96.52 0)
 			(effects
 				(font
@@ -2837,6 +2909,42 @@
 				(hide yes)
 			)
 		)
+		(property "Basic" "Y"
+			(at 146.05 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C4184"
+			(at 146.05 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 146.05 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0603WAF2002T5E"
+			(at 146.05 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ce4e15c5-5d6a-4237-93b3-8533945a1f0b")
 		)
@@ -2903,6 +3011,42 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 118.11 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Basic" "Y"
+			(at 118.11 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
+			(at 118.11 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 118.11 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0603WAF5101T5E"
 			(at 118.11 93.98 0)
 			(effects
 				(font
@@ -3115,6 +3259,42 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 168.91 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Basic" "Y"
+			(at 168.91 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C21122"
+			(at 168.91 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics "
+			(at 168.91 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL10B223KB8NNNC"
+			(at 168.91 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3474,6 +3654,42 @@
 				(hide yes)
 			)
 		)
+		(property "Basic" "X"
+			(at 180.34 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2918361"
+			(at 180.34 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROQANG"
+			(at 180.34 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RVT1E221M0607"
+			(at 180.34 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "665ae03f-ae09-4d56-bbe3-8ae5d0f8de90")
 		)
@@ -3615,6 +3831,42 @@
 				(hide yes)
 			)
 		)
+		(property "Basic" "Y"
+			(at 168.91 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
+			(at 168.91 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 168.91 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CC0603KRX7R9BB104"
+			(at 168.91 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "68e8610e-def9-4892-a5fd-8766ade79821")
 		)
@@ -3681,6 +3933,42 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 172.72 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Basic" "Y"
+			(at 172.72 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
+			(at 172.72 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 172.72 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CC0603KRX7R9BB104"
 			(at 172.72 111.76 0)
 			(effects
 				(font
@@ -3814,7 +4102,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 116.332 104.14 90)
 			(effects
 				(font
@@ -3833,6 +4121,42 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 118.11 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Basic" "E"
+			(at 118.11 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C17490"
+			(at 118.11 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 118.11 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0805W8F1602T5E"
 			(at 118.11 104.14 0)
 			(effects
 				(font
