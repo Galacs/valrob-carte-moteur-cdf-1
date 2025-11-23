@@ -613,7 +613,11 @@
       },
       {
         "netclass": "USB",
-        "pattern": "/D*"
+        "pattern": "/D-"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/D+"
       }
     ]
   },
