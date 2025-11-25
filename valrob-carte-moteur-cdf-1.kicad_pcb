@@ -862,7 +862,7 @@
 		(property "Reference" "D4"
 			(at -3.5 0.5 0)
 			(layer "F.SilkS")
-			(uuid "c1962680-0cf0-463b-a159-2dd5df52adb5")
+			(uuid "fc6cef72-0272-4f47-8b3b-133c481fa7bf")
 			(effects
 				(font
 					(size 1 1)
@@ -873,7 +873,7 @@
 		(property "Value" "BZT52B3V3"
 			(at 0 2.1 0)
 			(layer "F.Fab")
-			(uuid "7bdeafef-bf33-45b7-ae5d-48598f226d5d")
+			(uuid "5894c58d-f82e-4985-93fd-54d9af617ac8")
 			(effects
 				(font
 					(size 1 1)
@@ -886,7 +886,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d1a86272-f269-4eeb-b846-76072b19155f")
+			(uuid "c2f776d4-4210-4f4d-82bf-5e81029640ff")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -899,7 +899,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0a524a39-f3b7-4072-b08f-f31152b1ae5b")
+			(uuid "a80e52c2-5ac3-4e4a-bb7d-5a99b5ac2e90")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1186,7 +1186,7 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 9 "+12V")
+			(net 4 "/Vsense")
 			(pinfunction "K")
 			(pintype "passive")
 			(uuid "1519a532-e129-4cb0-ba1d-f5030e768222")
@@ -2368,7 +2368,7 @@
 		(property "Reference" "U5"
 			(at -5.07617 3.7 0)
 			(layer "F.SilkS")
-			(uuid "2e34ff01-7007-4ba0-a234-68e73a63ebf5")
+			(uuid "0eedf262-ce1e-4bc4-814d-0214f6d65030")
 			(effects
 				(font
 					(size 1 1)
@@ -2379,7 +2379,7 @@
 		(property "Value" "DRV8874"
 			(at 0 3.45 0)
 			(layer "F.Fab")
-			(uuid "cf388621-55e4-4c3a-82e7-ba0324b8d682")
+			(uuid "8c89d14a-e222-4873-9cd3-c65b71e33efe")
 			(effects
 				(font
 					(size 1 1)
@@ -2391,7 +2391,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "28c90df0-b38f-4954-a96d-3884047ed06d")
+			(uuid "0f6ce819-f55b-462d-a9c9-dabef81cbdbc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2403,7 +2403,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "70f2de94-7454-44c5-98ed-04697ede3da5")
+			(uuid "58f05002-ffb7-429b-ace3-1abe82389342")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8298,7 +8298,7 @@
 		(property "Reference" "C4"
 			(at -2.25 -0.085 0)
 			(layer "F.SilkS")
-			(uuid "07a7fdcb-559c-4df0-99b9-380e72d1273b")
+			(uuid "d83ccf09-7785-4d98-8521-d71132bb74d0")
 			(effects
 				(font
 					(size 1 1)
@@ -8309,7 +8309,7 @@
 		(property "Value" "0u1"
 			(at 0 1.43 0)
 			(layer "F.Fab")
-			(uuid "6e45d89c-c636-4a30-ae1c-389d0ed5df9b")
+			(uuid "7756f739-c7f2-42fa-b930-c3f55356f5a9")
 			(effects
 				(font
 					(size 1 1)
@@ -8321,7 +8321,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6c301d8e-d077-4d9b-b4f4-03fe2092b9ce")
+			(uuid "9a5a62d4-e89e-497f-b9d6-b329ff7ce4d1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8333,7 +8333,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2e46f310-cc16-42cb-83d1-2901963451e3")
+			(uuid "1f132093-5584-4edc-a7bc-6396803edff2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8514,7 +8514,7 @@
 			(size 0.9 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net 9 "+12V")
+			(net 4 "/Vsense")
 			(pintype "passive")
 			(uuid "ee7cb98f-446c-4bb9-8fc3-2e0f05fe1c73")
 		)
@@ -9177,7 +9177,7 @@
 		(property "Reference" "TP3"
 			(at -2.25 0 180)
 			(layer "F.SilkS")
-			(uuid "f5166b1e-1ff0-45ca-ac88-b578ce2bb02e")
+			(uuid "96cb0b23-00f1-4d85-a3ce-1c858aae654a")
 			(effects
 				(font
 					(size 1 1)
@@ -9188,7 +9188,7 @@
 		(property "Value" "TestPoint"
 			(at 0 2.05 90)
 			(layer "F.Fab")
-			(uuid "baf5f160-1de8-4945-b104-b7bcf0c6c58c")
+			(uuid "9888f7d4-0732-4d0c-90d5-daf54a55dbac")
 			(effects
 				(font
 					(size 1 1)
@@ -9201,7 +9201,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4b769fd7-6081-4154-9175-e5e25193dbe3")
+			(uuid "0b291acd-06f1-4e11-b2bf-ea5e9be1f6a6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9214,7 +9214,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "81f8e43c-d4c0-4f2d-8e95-4e779c389929")
+			(uuid "e15ff2f4-abe0-4650-b3bd-9c294ebdea40")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9264,7 +9264,7 @@
 			(at 0 0 90)
 			(size 2 2)
 			(layers "F.Cu" "F.Mask")
-			(net 9 "+12V")
+			(net 4 "/Vsense")
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "ba90b51b-724e-40fb-afdc-5a1e7924814c")
@@ -14777,7 +14777,7 @@
 		(property "Reference" "U4"
 			(at -5 3.356385 0)
 			(layer "F.SilkS")
-			(uuid "682f85cd-087f-487f-ac08-14e6158d3e17")
+			(uuid "e58550e8-7114-49d1-b1f2-4c00eca8967c")
 			(effects
 				(font
 					(size 1 1)
@@ -14788,7 +14788,7 @@
 		(property "Value" "DRV8874"
 			(at 0 3.45 0)
 			(layer "F.Fab")
-			(uuid "5519d5ed-b24a-43c1-81d1-b24c21096a7e")
+			(uuid "3ea2da25-1efd-4cb4-b0cc-cbc86ab48787")
 			(effects
 				(font
 					(size 1 1)
@@ -14800,7 +14800,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cc039968-0e5e-48d2-a7f7-1702945ebf0e")
+			(uuid "329c48d5-2600-40ec-b405-081b22140e57")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14812,7 +14812,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5b592294-930c-4e2f-a10f-46c8bebe860b")
+			(uuid "c3f662c1-3aba-4284-bd45-b5058928e31a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17027,7 +17027,7 @@
 		(property "Reference" "J1"
 			(at 6.5 -3.25 0)
 			(layer "F.SilkS")
-			(uuid "ed1be8e0-2d63-4f7f-9ca6-26a669823944")
+			(uuid "31b61d1e-0a46-4f69-b39f-fc7549cabec1")
 			(effects
 				(font
 					(size 1 1)
@@ -17038,7 +17038,7 @@
 		(property "Value" "USB_C_Receptacle_USB2.0_14P"
 			(at 0 5.1 0)
 			(layer "F.Fab")
-			(uuid "dee46cc8-1c61-4002-8348-35feefe3fc12")
+			(uuid "ff6058ee-d3a2-49b1-b9eb-485435896725")
 			(effects
 				(font
 					(size 1 1)
@@ -17051,7 +17051,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "91ea5e75-cd99-4ec5-9069-f9e2b9f068c8")
+			(uuid "a1413fe1-022c-4556-8e8d-d7dcb9010a28")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17064,7 +17064,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8f9053b8-37da-4190-a195-3ea3bb86b338")
+			(uuid "0c39e7a8-a2ce-4772-9f2d-9169aa64916b")
 			(effects
 				(font
 					(size 1.27 1.27)
