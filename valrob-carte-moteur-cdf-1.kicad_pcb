@@ -3024,7 +3024,7 @@
 		(descr "Molex PicoBlade Connector System, 53048-0810, 8 Pins per row (http://www.molex.com/pdm_docs/sd/530480210_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex PicoBlade horizontal")
 		(property "Reference" "J8"
-			(at 11.375 -1.95 0)
+			(at 11.125 -2 0)
 			(layer "F.SilkS")
 			(uuid "8853ec84-14b8-43ee-b6f1-d10600a3e73b")
 			(effects
@@ -25895,10 +25895,62 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "2"
+		(at 112.5 95.5 0)
+		(layer "F.SilkS" knockout)
+		(uuid "140dcb9f-43a3-467c-9c83-e6a47741461f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "+12V"
 		(at 137 97.75 90)
 		(layer "F.SilkS" knockout)
 		(uuid "2ff64e40-0afe-4575-8052-3957ab10c5ec")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.16)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "40"
+		(at 97.84381 91.75 180)
+		(layer "F.SilkS" knockout)
+		(uuid "380a4363-dfbd-44af-a850-513c88bcdecc")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.16)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "39"
+		(at 100.09381 91.75 180)
+		(layer "F.SilkS" knockout)
+		(uuid "58c62ea5-e114-4d34-8c9f-c9e2b36def54")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.16)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "41"
+		(at 95.09381 91.75 180)
+		(layer "F.SilkS" knockout)
+		(uuid "602fc953-7d8e-4cfe-85b1-faa53d5e1d78")
 		(effects
 			(font
 				(size 0.8 0.8)
@@ -26007,6 +26059,32 @@
 			(font
 				(size 0.8 0.8)
 				(thickness 0.16)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "42"
+		(at 92.59381 91.75 180)
+		(layer "F.SilkS" knockout)
+		(uuid "c0e2bd7e-ae3c-4700-925a-090e32cbe06f")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.16)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "1"
+		(at 117.5 95.5 0)
+		(layer "F.SilkS" knockout)
+		(uuid "ef29687f-ae84-4881-9caf-027549395d50")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
 				(bold yes)
 			)
 			(justify left bottom)
