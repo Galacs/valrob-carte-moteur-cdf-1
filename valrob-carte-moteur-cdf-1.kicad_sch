@@ -5398,16 +5398,6 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 102.87) (xy 40.64 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "46892ea6-e8f2-4de7-8978-09f9f3cc14fe")
-	)
-	(wire
-		(pts
 			(xy 55.88 129.54) (xy 52.07 129.54)
 		)
 		(stroke
@@ -6658,6 +6648,16 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 102.87) (xy 40.64 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5f5f998-2858-4caa-a33e-bd3d13ce5f81")
+	)
+	(wire
+		(pts
 			(xy 26.67 187.96) (xy 26.67 189.23)
 		)
 		(stroke
@@ -7410,7 +7410,7 @@
 	)
 	(symbol
 		(lib_id "Pers:H5VU10U")
-		(at 68.58 105.41 90)
+		(at 68.58 105.41 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7418,7 +7418,7 @@
 		(dnp no)
 		(uuid "050ceccb-9c50-4d3a-b0e9-858c960467bb")
 		(property "Reference" "D13"
-			(at 72.39 107.95 90)
+			(at 68.58 108.458 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7427,7 +7427,7 @@
 			)
 		)
 		(property "Value" "H5VU10U"
-			(at 66.04 104.1401 90)
+			(at 71.12 106.6799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7437,7 +7437,7 @@
 			)
 		)
 		(property "Footprint" "Pers:Diode_DFN1006"
-			(at 73.025 105.41 0)
+			(at 64.135 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7858,7 +7858,7 @@
 	)
 	(symbol
 		(lib_id "Pers:H5VU10U")
-		(at 21.59 105.41 90)
+		(at 21.59 105.41 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7866,7 +7866,7 @@
 		(dnp no)
 		(uuid "0c5777f2-15e7-4a00-90cc-4ba8dfce5167")
 		(property "Reference" "D6"
-			(at 24.384 107.95 90)
+			(at 22.606 108.458 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7875,7 +7875,7 @@
 			)
 		)
 		(property "Value" "H5VU10U"
-			(at 19.05 104.1401 90)
+			(at 24.13 106.6799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7885,7 +7885,7 @@
 			)
 		)
 		(property "Footprint" "Pers:Diode_DFN1006"
-			(at 26.035 105.41 0)
+			(at 17.145 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8958,7 +8958,7 @@
 	)
 	(symbol
 		(lib_id "Pers:H5VU10U")
-		(at 64.77 105.41 90)
+		(at 64.77 105.41 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8966,7 +8966,7 @@
 		(dnp no)
 		(uuid "38f4cb4c-9c21-4d60-b23d-7b59f12e5432")
 		(property "Reference" "D12"
-			(at 68.58 107.95 90)
+			(at 64.77 108.458 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8975,7 +8975,7 @@
 			)
 		)
 		(property "Value" "H5VU10U"
-			(at 62.23 104.1401 90)
+			(at 67.31 106.6799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8985,7 +8985,7 @@
 			)
 		)
 		(property "Footprint" "Pers:Diode_DFN1006"
-			(at 69.215 105.41 0)
+			(at 60.325 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10709,7 +10709,7 @@
 	)
 	(symbol
 		(lib_id "Pers:H5VU10U")
-		(at 29.21 105.41 90)
+		(at 29.21 105.41 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10717,7 +10717,7 @@
 		(dnp no)
 		(uuid "6a8bc233-7d9d-4bfe-951e-0ae24f394803")
 		(property "Reference" "D8"
-			(at 32.004 107.95 90)
+			(at 30.226 108.458 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10726,7 +10726,7 @@
 			)
 		)
 		(property "Value" "H5VU10U"
-			(at 26.67 104.1401 90)
+			(at 31.75 106.6799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10736,7 +10736,7 @@
 			)
 		)
 		(property "Footprint" "Pers:Diode_DFN1006"
-			(at 33.655 105.41 0)
+			(at 24.765 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11139,7 +11139,7 @@
 	)
 	(symbol
 		(lib_id "Pers:H5VU10U")
-		(at 25.4 105.41 90)
+		(at 25.4 105.41 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11147,7 +11147,7 @@
 		(dnp no)
 		(uuid "7383a35b-d7b5-419f-8cbc-58e3c1e30bbd")
 		(property "Reference" "D7"
-			(at 28.194 107.95 90)
+			(at 26.416 108.458 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11156,7 +11156,7 @@
 			)
 		)
 		(property "Value" "H5VU10U"
-			(at 22.86 104.1401 90)
+			(at 27.94 106.6799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11166,7 +11166,7 @@
 			)
 		)
 		(property "Footprint" "Pers:Diode_DFN1006"
-			(at 29.845 105.41 0)
+			(at 20.955 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11879,7 +11879,7 @@
 	)
 	(symbol
 		(lib_id "Pers:H5VU10U")
-		(at 33.02 105.41 90)
+		(at 33.02 105.41 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11887,7 +11887,7 @@
 		(dnp no)
 		(uuid "93eb19d3-18fd-4a20-81f6-447015753559")
 		(property "Reference" "D9"
-			(at 35.814 107.95 90)
+			(at 34.036 108.458 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11896,7 +11896,7 @@
 			)
 		)
 		(property "Value" "H5VU10U"
-			(at 30.48 104.1401 90)
+			(at 35.56 106.6799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11906,7 +11906,7 @@
 			)
 		)
 		(property "Footprint" "Pers:Diode_DFN1006"
-			(at 37.465 105.41 0)
+			(at 28.575 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12089,7 +12089,7 @@
 	)
 	(symbol
 		(lib_id "Pers:H5VU10U")
-		(at 72.39 105.41 90)
+		(at 72.39 105.41 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12097,7 +12097,7 @@
 		(dnp no)
 		(uuid "9d1a3ed0-8ead-4611-8171-3c4cb56a6b70")
 		(property "Reference" "D14"
-			(at 76.2 107.95 90)
+			(at 72.39 108.458 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12106,7 +12106,7 @@
 			)
 		)
 		(property "Value" "H5VU10U"
-			(at 69.85 104.1401 90)
+			(at 74.93 106.6799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12116,7 +12116,7 @@
 			)
 		)
 		(property "Footprint" "Pers:Diode_DFN1006"
-			(at 76.835 105.41 0)
+			(at 67.945 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13605,7 +13605,7 @@
 	)
 	(symbol
 		(lib_id "Pers:H5VU10U")
-		(at 60.96 105.41 90)
+		(at 60.96 105.41 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13613,7 +13613,7 @@
 		(dnp no)
 		(uuid "bf367b08-5d52-4449-b554-ccd4324ecf0c")
 		(property "Reference" "D11"
-			(at 64.77 107.95 90)
+			(at 60.96 108.458 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13622,7 +13622,7 @@
 			)
 		)
 		(property "Value" "H5VU10U"
-			(at 58.42 104.1401 90)
+			(at 63.5 106.6799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13632,7 +13632,7 @@
 			)
 		)
 		(property "Footprint" "Pers:Diode_DFN1006"
-			(at 65.405 105.41 0)
+			(at 56.515 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13818,7 +13818,7 @@
 	)
 	(symbol
 		(lib_id "Pers:H5VU10U")
-		(at 76.2 105.41 90)
+		(at 76.2 105.41 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13826,7 +13826,7 @@
 		(dnp no)
 		(uuid "c8d57e23-e189-40b9-9c86-bfc049b37942")
 		(property "Reference" "D15"
-			(at 80.01 107.95 90)
+			(at 76.2 108.458 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13835,7 +13835,7 @@
 			)
 		)
 		(property "Value" "H5VU10U"
-			(at 73.66 104.1401 90)
+			(at 78.74 106.6799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13845,7 +13845,7 @@
 			)
 		)
 		(property "Footprint" "Pers:Diode_DFN1006"
-			(at 80.645 105.41 0)
+			(at 71.755 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14124,7 +14124,7 @@
 	)
 	(symbol
 		(lib_id "Pers:H5VU10U")
-		(at 36.83 105.41 90)
+		(at 36.83 105.41 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14132,7 +14132,7 @@
 		(dnp no)
 		(uuid "d5ef5886-04e4-4e79-9112-dd2fadb1a0ed")
 		(property "Reference" "D10"
-			(at 40.64 107.95 90)
+			(at 36.83 108.458 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14141,7 +14141,7 @@
 			)
 		)
 		(property "Value" "H5VU10U"
-			(at 34.29 104.1401 90)
+			(at 39.37 106.6799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14151,7 +14151,7 @@
 			)
 		)
 		(property "Footprint" "Pers:Diode_DFN1006"
-			(at 41.275 105.41 0)
+			(at 32.385 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
