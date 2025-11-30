@@ -3663,7 +3663,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2918361"
+		(property "JLCPCB Part #" "C46550411"
 			(at 180.34 111.76 0)
 			(effects
 				(font
@@ -3672,7 +3672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "ROQANG"
+		(property "Manufacturer" "jieerrui"
 			(at 180.34 111.76 0)
 			(effects
 				(font
@@ -3681,7 +3681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "RVT1E221M0607"
+		(property "Manufacturer Part Number" "JVJ35V220M6x8"
 			(at 180.34 111.76 0)
 			(effects
 				(font
