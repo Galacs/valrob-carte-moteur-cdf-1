@@ -10,8 +10,11 @@ ESP32-S3-WROOM-1 Dual 5A DC motor driver
 
 ## Top preview
 
+<img width="1200" height="862" alt="image" src="https://github.com/user-attachments/assets/27f2a84d-6f07-439a-bb90-7d793cd7008b" />
 
 ## Preview 3d render
+
+<img width="1265" height="877" alt="image" src="https://github.com/user-attachments/assets/d0d60c93-953b-4dd5-942c-bee78712aa43" />
 
 ## Pin definitions
 
@@ -39,4 +42,3 @@ ESP32-S3-WROOM-1 Dual 5A DC motor driver
 
 #define BATT_SENSE_PIN 9
 ```
-
